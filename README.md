@@ -1,4 +1,4 @@
-# Kuma Oracle Extension
+# Kuma Oracle Extension (Chrome)
 
 ### Version: 1.0
 
